@@ -3,7 +3,8 @@ import Head from "next/head";
 import AppContext from "../components/context";
 import Home from "./index"
 import Layout from "../components/layout"
-import Cookie from "js-cookie"
+import Cookie from "js-cookie" 
+// comment
 
 
 function MyApp(props){
